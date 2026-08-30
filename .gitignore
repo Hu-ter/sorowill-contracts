@@ -16,7 +16,6 @@ test_snapshots/
 
 # IDE / editor
 .idea/
-.vscode/
 *.iml
 
 # Local AI tool config/state, never pushed
@@ -41,3 +40,7 @@ yarn-error.log*
 
 # Local-only notes, never pushed
 issue.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
